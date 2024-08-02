@@ -3,7 +3,7 @@ const xxzz = {
     old_pc_game_url:'https://pc1.hjbc666.com/',
     new_pc_game_url:'https://pc2.hj812.vip/',
     h5_game_url:'https://h5.hj812.vip/',
-    ad:"https://ht.hjzbc666.com/",
+    ad:"https://ht.hjbc666.com/",
     app_down:"https://download.hjbc66.com/",
     chat_app:"http://www.cx6699.top/",
     inv_code:"DN01093"
